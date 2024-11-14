@@ -20,7 +20,7 @@ I have a Master's degree🎓 from [@Old Dominion University](https://www.odu.edu
 
 - 👯 I’m looking to collaborate on **AI related Projects**
 
-- 🤝 I’m looking for help with **Data Analyst roles**
+- 🤝 I’m looking to explore **Data Analyst roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/neeharikaputcha9](https://github.com/neeharikaputcha9)
 
